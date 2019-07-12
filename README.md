@@ -6,9 +6,9 @@ GITHUB下载速度较慢，仅供备份使用，建议使用百度云下载。
 
 百度云分享链接如果失效我会在这个页面更新
 
-百度云地址1：
+GITHUB地址：https://github.com/mediv01/Civilization-IV-MOD-Dawn-of-Civilization-Chinese-Version-V1.11
 
 
-百度云地址2：
+百度云地址：
 链接: https://pan.baidu.com/s/1xkiQBffT8eYmxRZu6YxMtw 
 提取码: xjz3 
